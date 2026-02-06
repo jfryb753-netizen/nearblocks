@@ -1,4 +1,4 @@
-# NearBlocks Near Explorer
+f# NearBlocks Near Explorer
 
 [NearBlocks](https://nearblocks.io/) is the leading [Near Blockchain Explorer](https://nearblocks.io), Search, API and Analytics Platform for Near Protocol, a decentralized smart contracts platform. Built and launched in 2022, it is one of the earliest projects built around Near Protocol and its community with the mission of providing equitable access to blockchain data
 
